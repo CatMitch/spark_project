@@ -1,0 +1,9 @@
+---
+url:
+  stations: https://raw.github.com/rvm-courses/GasPrices/master/Stations2017.zip
+  prices:
+    root: https://raw.github.com/rvm-courses/GasPrices/master/Prix
+    year_started: 2014
+    year_ended: 2017
+  services: https://raw.github.com/rvm-courses/GasPrices/master/Services2017.zip
+...
